@@ -1,8 +1,8 @@
 # Data Analyst & scientist
 ### Education
-Deng  Industrial & Systems Engineering
-MSc Industrial & Systems Engineering
-BSc Mathematics
+ Deng  Industrial & Systems Engineering
+ MSc Industrial & Systems Engineering
+ BSc Mathematics
 
 ### Work Experience
 Data Scientist @ Brookhaven National Lab
