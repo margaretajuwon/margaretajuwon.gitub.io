@@ -11,7 +11,6 @@ Senior Data Analyst at Morgan State University
 
 Data Scientist @ Brookhaven National Lab
 
-Business Analyst at Morgan Stanley
 
 Data Analyst at Eaton Corporation
 
